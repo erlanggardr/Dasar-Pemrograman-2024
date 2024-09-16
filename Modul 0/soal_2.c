@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(){
-
+int main()
+{
     /*
     Deklarasi variabel
     P = bagian pizza
@@ -20,6 +20,4 @@ int main(){
     // output
     printf ("Teman-teman mendapatkan %d potong :)\n", T);
     printf ("Ghifari mendapatkan %d potong :(", G);
-
-
 }
